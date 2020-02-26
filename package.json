@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@unform/core": "^2.0.0",
+    "@unform/web": "^2.0.0"
+  }
+}
